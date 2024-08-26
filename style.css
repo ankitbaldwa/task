@@ -55,6 +55,9 @@ h1::before, h1::after {
     overflow: hidden;
     border: 30px solid #fff;
     border-radius: 25px;
+    -moz-box-shadow: 13px 13px 0px 0px #FFFFFF;
+    -webkit-box-shadow: 13px 13px 0px 0px #FFFFFF;
+     box-shadow: 13px 13px 0px 0px  #FFFFFF;
   }
   .background-color {
     background: #ff6b82;
