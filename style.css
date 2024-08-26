@@ -155,7 +155,7 @@ h1::before, h1::after {
     background-size: 10px 10px;
   }
   .idOfshowmore:hover .discount-tag{
-    border-radius: 10%;
+    border-radius: 5%;
     background-color: #ff6b82;
     color: #fff;
     padding: 5px;
