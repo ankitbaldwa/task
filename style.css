@@ -259,7 +259,7 @@ h1::before, h1::after {
     .idOfcontent:hover {
         width: 85%;
     }
-      .col-6 {width: 100%;}
+      .col-6 {width: 52%;}
   }
   /* @media only screen and (min-device-width: 768px) {
     .idOfcontent {
