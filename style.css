@@ -44,7 +44,7 @@ h1::before, h1::after {
     transform: translateY(-0.5rem);
 }
 .idOfcontent {
-    width: 60%;
+    width: 70%;
     background: #fefefe;
     padding: 18px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
